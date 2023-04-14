@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-=======
 #!/bin/bash
-echo "/tmp/correction/1203467905356037153720133519231452723624_5/205/405436/0x00-shell_basics"
->>>>>>> f74494d0c0b6b28d75b5fbcf33d8e958376636aa
+echo "pwd"
